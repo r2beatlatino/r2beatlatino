@@ -13,11 +13,11 @@ Lo hacemos de forma **desinteresada**: por cariño a esos juegos, a la gente que
 
 ## Respeto por los creadores originales
 
-Los juegos, sus nombres, su arte y su música pertenecen a sus creadores. 
-No se busca lucrar ni competir con los dueños de las IP originales.
-Nuestros repositorios contienen **solo código propio y documentación**, el contenido original de los juegos,
-pertenece a sus dueños. Si representas a alguno de sus dueños y quieres conversar, escríbenos con confianza.
+Los juegos, sus nombres, su arte y su música pertenecen a sus creadores.
+No buscamos lucrar ni competir con los dueños de las IP originales.
+Nuestros repositorios contienen **solo código propio y documentación**; el contenido original de los juegos pertenece a sus dueños.
+Si representas a alguno de ellos y quieres conversar, escríbenos con confianza.
 
 ---
 
-*Hecho con cariño por el Ñ2-Team, para los que estan hoy y para los que vendrán despues. * 💛
+*Hecho con cariño por el Ñ2-Team, para los que están hoy y para los que vendrán después.* 💛
