@@ -11,19 +11,12 @@ Lo hacemos de forma **desinteresada**: por cariño a esos juegos, a la gente que
 - **Durar.** Todo está documentado para que el proyecto se pueda volver a levantar desde cero, sin depender de una sola persona ni de una sola máquina.
 - **Cuidar a la comunidad.** Un lugar sano para jugar, con reglas claras y respeto por los datos de cada jugador.
 
-## Nuestros proyectos
-
-| | |
-|---|---|
-| [**coordinador**](https://github.com/r2beatlatino/coordinador) | El corazón de Eñeños: cuentas, panel y catálogo de juegos |
-| [**R2beat-2013**](https://github.com/r2beatlatino/R2beat-2013) | Servidor abierto de R2Beat Latino 2013 |
-| [**GunBound**](https://github.com/r2beatlatino/GunBound) | Servidor de GunBound |
-| [**EDA**](https://github.com/r2beatlatino/EDA) | Servidor de EDA · Espada del Alma |
-| [**Wolf-Team**](https://github.com/r2beatlatino/Wolf-Team) | En planes |
-
 ## Respeto por los creadores originales
 
-Los juegos, sus nombres, su arte y su música pertenecen a sus creadores. Nuestros repositorios contienen **solo código propio y documentación**, nunca contenido original de los juegos. Si representas a alguno de sus dueños y quieres conversar, escríbenos con confianza.
+Los juegos, sus nombres, su arte y su música pertenecen a sus creadores. 
+No se busca lucrar ni competir con los dueños de las IP originales.
+Nuestros repositorios contienen **solo código propio y documentación**, el contenido original de los juegos,
+pertenece a sus dueños. Si representas a alguno de sus dueños y quieres conversar, escríbenos con confianza.
 
 ---
 
