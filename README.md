@@ -1,4 +1,4 @@
-# Eñeños 🎮
+# Eñeños 
 
 Somos una comunidad que mantiene vivos juegos online que marcaron una época y que ya no tienen servidores oficiales.
 
